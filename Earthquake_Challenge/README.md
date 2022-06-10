@@ -1,1 +1,1 @@
-# Earthquakke_Challenge
+# Earthquake_Challenge
